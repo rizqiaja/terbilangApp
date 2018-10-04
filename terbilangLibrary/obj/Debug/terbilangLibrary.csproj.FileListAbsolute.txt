@@ -1,0 +1,10 @@
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.dll
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.pdb
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.csprojResolveAssemblyReference.cache
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.dll
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.pdb
+E:\tugas kuliah\semester 3\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.dll
+E:\tugas kuliah\semester 3\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.pdb
+E:\tugas kuliah\semester 3\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.csprojResolveAssemblyReference.cache
+E:\tugas kuliah\semester 3\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.dll
+E:\tugas kuliah\semester 3\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.pdb

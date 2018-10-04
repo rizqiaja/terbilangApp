@@ -1,0 +1,22 @@
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe.config
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\bin\Debug\terbilangApp.pdb
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.dll
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.pdb
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csprojResolveAssemblyReference.cache
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Form1.resources
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Properties.Resources.resources
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csproj.GenerateResource.Cache
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\obj\Debug\terbilangApp.exe
+D:\visual studio\mualiflihawa\terbilangApp\terbilangApp\obj\Debug\terbilangApp.pdb
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe.config
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.exe
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.pdb
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\bin\Debug\terbilangApp.pdb
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.dll
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.pdb
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csprojResolveAssemblyReference.cache
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Form1.resources
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Properties.Resources.resources
+E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csproj.GenerateResource.Cache
