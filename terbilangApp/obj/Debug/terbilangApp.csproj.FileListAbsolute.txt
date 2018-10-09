@@ -20,3 +20,6 @@ E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.cspr
 E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Form1.resources
 E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Properties.Resources.resources
 E:\tugas kuliah\semester 3\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csproj.GenerateResource.Cache
+E:\Tugas Pemrograman lanjut\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe.config
+E:\Tugas Pemrograman lanjut\terbilangApp\terbilangApp\obj\Debug\terbilangApp.exe
+E:\Tugas Pemrograman lanjut\terbilangApp\terbilangApp\obj\Debug\terbilangApp.pdb
